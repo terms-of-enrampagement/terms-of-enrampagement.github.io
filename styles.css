@@ -1,0 +1,132 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+ul
+{
+	list-style-image: url(https://i.imgur.com/tiqd777.png);
+}
+
+.left
+{
+float:left;
+padding: 0 20px 20px 0;
+margin-right: 20px;
+}
+
+.right
+{
+float:right;
+padding: 20px;
+margin-bottom: 20px;
+}
+
+#expandText
+{
+	margin-top: 10px;
+	font-size: 125%;
+}
+
+#emphasis
+{
+margin:50px;
+background-color: grey;
+font-size: 150%;
+font-weight: bold;
+}
+
+#emphasis:hover
+
+{
+margin: 60px;
+background-color: grey;
+font-size: 175%;
+font-weight: bolder;
+}
+
+summary
+
+{
+	font-size: 125%;
+	transition-duration: .5s;
+	transition-property: height, color, background-color;
+}
+
+h3
+
+{
+font-size: 125%;
+}
+
+h3:hover
+
+{
+color:yellow;
+background-color: blue;
+}
+
+summary:hover
+
+{
+	color: white;
+	background-color: green;
+}
+
+p
+{
+text-align: justify;
+display: block;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}

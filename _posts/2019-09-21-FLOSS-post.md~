@@ -1,0 +1,108 @@
+---
+title: Why you should always F/LOSS before booting
+feature_image: ""
+date: 2019-09-21
+---
+
+
+
+<!-- more -->
+
+<details>      
+      <summary><h2>Why you should always F/LOSS before booting</h2></summary>
+      
+      <h5>A note on Free and Open Source Software on Software Freedom Day, 2019 : Sep 21, 2019</h5>
+      <div class="left"><img src="assets/images/Free_software.jpg" alt="Five reasons to love free software" height="500px" width="200px"></div>
+     <H3> Some definitions necessary to know (click to expand list items) </H3>
+		<ul>
+			<li> <details><summary>"Digital Restrictions Management" (click to expand)</summary>
+				<p id="expandText"> Digital Restrictions Management is a term that is the result of software companies' practice of making the user feel restricted in using a service they have legitimately purchased, and in doing so, results in a product that is <a href = https://www.defectivebydesign.org/what_is_drm_digital_restrictions_management>"defective by design". </a></p></details></li>
+				
+
+				<li><details><summary>"Free Software or F/LOSS"</summary>
+					<p id = "expandText">
+						The four essential criteria for free software are:
+						<ol>
+							<li><span> Freedom 0 </span>- Freedom to run the program as you wish, for any purpose.</li>
+							<li> <span> Freedom 1</span> - The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this. </li>
+							<li><span>Freedom 2 </span>- The freedom to redistribute copies so you can help others</li>
+							<li><span>Freedom 3</span>-The freedom to distribute copies of your modified version to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.</li>
+						</ol>
+						
+					<br>Software that does not meet this criteria falls under the category of "nonfree" and/or "proprietary" software. Software that does, is categorised as "Free and Open Source Software" or "FOSS"
+					
+					</p>
+				</details></li>
+				<li> <details><summary>"Copyleft"</summary>
+				<p id="expandText"> Copyleft is a kind of copyright license adopted by non-proprietary software makers that makes it simpler for
+				their users to redistribute programs. Unlike software whose only distinguishing feature is that the 
+				source code is in the public domain, copylefted 
+				software imposes upon the users a responsibility to ensure that each copy that they make, modify or redistribute is 
+				done so without imposing further costs. Significantly, some copyleft licenses, such as the "GNU General Public License" 
+				also prohibits such users, or in the case of software companies, "redistributors",
+				to benefit from the mere act of redistribution, with or without changes, unless it is redistributed to the user
+				with the freedom to further change or modify the program. </p> </details> </li>
+		</ul>
+	
+<h3> Introduction to FOSS </h3>
+<p>Since the beginning of the advent of computers, right up till roughly around the introduction of the personal computer, users perused the source-code that came bundled with their hardware. To monetise on the source code itself, patentization and copyrighting of source code was implemented to enable corporations to bundle firmware with the software itself. In this blog post, I have collated only some of the data on the FOSS community’s contributions to software development in general. </p>
+
+<p>The fact that the source-code in free software is free to read and edit, makes it a special use-case for software programmers looking to adopt FOSS-solutions as it offers a fuller understanding of how the program will work. While it is true that the term “Free Software” has it’s genesis in the community often given a negative connotation, namely, “hackers”, it is also true that ingenious solutions to the problems faced by computing systems today were/are developed mostly by the same community of FOSS programmers. Everything from the development of time-sharing systems to Operating Systems that run our phones have witnessed dedication from FOSS programmers.</p>
+    
+    <p>The idea of having software that users are free to run on their computers as they wish reflects on one 
+    of the underlying ideals of the free software movement - that is, enabling a computer to have it’s fullest
+     functionality, and also that fairly computer-literate users should be able to choose the specific functionality
+      of the products that they use, not instead being bound by “digital handcuffs” in proprietary software. </p>
+      
+<h3> The benefits of using FOSS </h3>      
+      
+      <p> The benefits of using FOSS are multifold, especially considering the digital economy oriented policy outlooks that some
+       countries have implemented as the models for their economies, and as <b> computer literacy advances</b>.
+        The availability of multiple specialised substitutes for the same task, has been highly beneficial. 
+        This is relevant when looking at which GNU/Linux distributions (‘distros’) to install on your desktop, 
+        which FOSS Operating System to choose for your phone, or likewise for any other FOSS-enabled service/application.</p>
+        
+       <p> What should perhaps draw more attention from companies and end users as well as energy conservationists is the fact that as proprietary code adds
+        <a href = "https://informationisbeautiful.net/visualizations/million-lines-of-code/"> millions of lines of code exponentially </a>, which increases
+         the stress on compilers as well as naturally giving us slower devices, and as <a href = "https://arstechnica.com/uncategorized/2006/03/6409-2/"> 
+         DRM drains their battery life, </a> the effect on the units of energy consumed in running the program is noticeable. </p>
+         
+         <p>FOSS on the other hand, works through non-employment of DRM to ensure lesser burden on the processing power of any system, 
+         and also works for an environmentally aware user community with many applications made specifically for <a href = "https://opensource.com/article/19/4/environment-projects">eco-friendly uses.</a></p>
+
+<p>FOSS works through constant development, according to most users because of it’s ability to self-regulate through a community of developers
+ who share their knowledge in a collaborative environment. The FOSS community and, the <a href = "https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/">
+ Open Source initiative,</a> both see a convergence of left-wing
+  and right-wing of the political spectrum. </p>
+    
+<p id="emphasis">Since this is where all roads meet for software enthusiasts, they also have a larger pool of programmers to work on
+ applications running with the FOSS freedoms, and subsequently witness a rise in plugging cybersecurity vulnerabilities and debugging of errors. </p>    
+    
+    <div class="right"><img src="/assets/images/DRM.jpg" alt="Image of books stacked atop each other with the caption - 'ANTI DRM CLUB'" height="500px" width="250px"> </div>
+   <p> Another big implication for users is that FOSS-enabled programs eventually end up respecting privacy far more than any other proprietary company. With a low-cost product market, and source code that is open to inspect for any user of such program, the implications of such readily auditable code, are that a user may choose that service according to the data protection policy adopted, or rather <b><i>enforced </b> </i>in the source code now freely available, in order to check whether it protects the users' <b> privacy. </b> In light of the EU’s GDPR requirements, and global consciousness rising about the ownership of sensitive data of computer users, such privacy-respecting implementations should only benefit the FOSS community. </p> 
+
+<p>However, the FOSS community has regularly been hounded for it’s free, copyleft source code which, through the application of copyright law, has often times been made the mistress of proprietary software sold by tech giants. This proprietary software is then sold to users with expensive hardware, therefore effectively rendering the work of the FOSS programmers to waste. </p>
+
+
+
+<h3>PROPRIETARY SOFTWARE’S IMPACT THROUGH ARM-TWISTING OF THE FOSS DEVELOPERS.</h3>    
+   
+   <p> Microsoft’s “Embrace-Extend-Extinguish” policy as illustrated before a US Court (Comes v. Microsoft, 2007 - Expert Testimony of Ronald Alepin) is illustrative of the policy adopted by Microsoft towards FOSS software in general. In the words of the witness, <a href = "http://www.groklaw.net/articlebasic.php?story=20070108020408557"> Ronald Alepin, himself, </a> Microsoft “…makes it essentially unavailable on a going-forward basis to the industry participants who were responsible for first developing the specifications and the standards.” </p>
+	
+<p>Thus, mere proprietary additions often operate in a restrictive manner towards the customer itself, as has been demonstrated by the increasing inroads of DRM in applications. What’s more is, this is done through minimal input to the development of the software. </p>
+<h3> CONCLUSION </h3>
+<p>While for some, the struggle for the FOSS community to survive may look like just an uneven match against big corporate running the proprietary software market, this battle takes scary proportions when, it is taken into consideration that the FOSS community is largely consisted of individuals, startups and smaller companies who pride themselves on innovation which forms the backbone of the devices we run our everyday tasks and businesses on. <p>
+
+<p id ="emphasis">These devices, which run FOSS are everything from Smartphones and desktop computers to set-top boxes and servers. In fact, it has been cited many times by its proponents as the backbone of our computer systems. </p>    
+    
+	<p> Even the uses of free software in education are notable, it having been implemented in the public education system to teach programming/computer education while maintaining a low-cost system. </p>
+
+<p>On the other hand, proprietary software which comes locked-in often comes with firmware, DRM and other cost-imposing measures which make these technologies far more inaccessible to be truly “liberating” as a cyberlibertarian would put it, or even make an ounce of social good. Also, in the face of <a href= "https://www.gnu.org/proprietary/">malware like functionalities, </a> proprietary software by far fails to meet the standards that make the digital economy functional (privacy and cybersecurity). </p>
+
+<p>Further information:
+<ul><li> <a href = "https://www.gnu.org/philosophy/philosophy.html"> The Philosophy that drives GNU </a> </li>
+    <li> <a href = "https://www.youtube.com/watch?v=TVHcdgrqbHE"> A highly entertaining talk by YouTuber Bryan Lunduke </a></li>
+	</ul>
+</p>
+</details>
+

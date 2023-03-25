@@ -1,0 +1,44 @@
+---
+title: My attempt at creating an accessible modification of the DotCommunist Manifesto
+feature_text: |
+  The DotCommunist Manifesto by Eben Moglen in TTS-format alongside a live-coded audio
+date: 2022-01-24
+---
+
+<h1> Why I chose the dotCommunistManifesto </h1>
+
+<p>
+The Free Software Movement has theoretical roots that often need to be re-iterated, re-emphasised and what better way than to "re-distribute" in "modified" forms, something that is permissible only within the contours of "FREE INFORMATION"!!
+
+<br>
+
+If you read <a href = "http://moglen.law.columbia.edu/publications/dcm.html"> the essay by Eben Moglen,</a> you will notice that the author very deftly captures class analysis, media critique and the principles of Free information, of course, in this essay. 
+
+<br>
+
+There are many ways that attention can be drawn to this statement by Eben Moglen, which, with all it's radical potential, certainly needs expression in more translations. Hence, I sincerely hope my contribution is one that helps render it more accessible. 
+      
+
+<h1>Learning to use Sonic-Pi</h1>
+    
+<p>
+This was not that difficult, thanks to the years of computer science education at the high-school level which taught me about the importance of syntax. Also, due credit to all my music theory teachers over the years (both offline and online),
+due to whom I could apply the concepts to this piece of work. Enough gloating about my "skillsets" :P </p>
+<br>
+One thing I found super-helpful was the Sonic-Pi tutorial which comes pre-packaged along with the Application itself. However, certain key pieces of information such as multi-line comments were missing, for which I had to rely on le Olde friend DuckDuckGo.
+<br>
+Next up, I realised that imagining a simple piece of sheet music where the quarter notes are 0.25th of a beat and sub-dividing further for triplets, rests, etc. could help create many a great rhythm. Some of this stuff was not possible for me to either "draw" or "finger-drum" into a traditional DAW grid. So, thanks to the creators of Sonic-Pi for making this work intuitively.
+<br>
+<br> 
+In particular, using the command "pitch-stretch" to manipulate a drum roll sample and then alter the slicing of the stretch algorithm was just one of the features I marvelled at.
+<br>
+There's a lot left to learn, no doubt, but I decided to publish my attempt at this juncture because I plan on using non-free software to record instruments over the loops I create on this program. Let's see how that goes? :)
+</p>
+
+
+<!-- more -->
+
+{% include video.html id="Cfrs48V1na4" %}
+
+[Click here to access my repo containing the code in Sonic-Pi](https://github.com/sankalpsrv/dcmanifesto-sonicpi)
+

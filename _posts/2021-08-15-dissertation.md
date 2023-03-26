@@ -35,5 +35,3 @@ gone into detail with respect to two different framework conventions.
 Chapter 5 is where the author offers some concluding thoughts on what the learnings from a
 multi-faceted overview such as the present study point towards.
 
-
-{% pdf "/assets/pdfs/ComplianceWithEnvRegulations.pdf no_link %}

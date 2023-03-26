@@ -5,9 +5,8 @@ source "https://rubygems.org"
 # gem "rails"
 gemspec
 
-gem "jekyll-remote-theme"
-
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
   gem "jekyll-pdf-embed"
   gem "jekyll-sitemap"
   gem "jekyll-mentions"

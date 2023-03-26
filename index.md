@@ -3,7 +3,7 @@ title: Sankalp 'Sankeiy' Srivastava
 feature_text: |
   ### This site features the published works, creative projects, and working notes of Sankalp 'Sankeiy' Srivastava <br> <br> 
   <br>
-      	<a href="https:sankalpsrv.github.io/blog"> Click here to go to the blog </a> <br> <br>
+      	<a href="https://sankalpsrv.github.io/blog"> Click here to go to the blog </a> <br> <br>
       	See portfolio links below 
    
 excerpt: ''

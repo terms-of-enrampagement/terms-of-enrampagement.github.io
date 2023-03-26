@@ -44,9 +44,9 @@ jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @repl
 twitter:
   username: sikeitsthealps # jekyll-seo-tag > Owners twitter username
 author: Sankalp 'Sankeiy' Srivastava # jekyll-seo-tag > default author
-social: jekyll-seo-tag > social overrides
+social: # jekyll-seo-tag > social overrides
   name: Sankalp Srivastava # jekyll-seo-tag > real name
-  links:  jekyll-seo-tag > social aliases (sameAs)
+  links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/sankeiy
     - https://www.linkedin.com/in/sankalp-sankeiy-470593129/
     - https://github.com/sankalpsrv

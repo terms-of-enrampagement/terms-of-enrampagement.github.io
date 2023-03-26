@@ -1,4 +1,4 @@
-remote_theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -35,17 +35,18 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: sankeiy # jekyll-seo-tag > Owners twitter username
+  username: sikeitsthealps # jekyll-seo-tag > Owners twitter username
 author: Sankalp 'Sankeiy' Srivastava # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
+social: jekyll-seo-tag > social overrides
   name: Sankalp Srivastava # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
+  links:  jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/sankeiy
     - https://www.linkedin.com/in/sankalp-sankeiy-470593129/
     - https://github.com/sankalpsrv
@@ -69,7 +70,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: # The post list page content
     feature_text: |
       ## Welcome to the blog
     feature_image: ""
@@ -97,11 +98,11 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Sankalp 'Sankeiy' Srivastava's blog" # Site name or title, also used in jekyll-seo-tag
+title: "Sankalp 'Sankeiy' Srivastava" # Site name or title, also used in jekyll-seo-tag
 logo: "https://i.imgur.com/d4GhpHN.png" # Site logo, also used in jekyll-seo-tag
-description: "A website for Sankalp's work and working notes"
+description: "A website for Sankalp's portfolio and blog"
 url: "https://sankalpsrv.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "sankalpsrv.github.io"
+baseurl: ""
 repo: "https://github.com/sankalpsrv/sankalpsrv.github.io"
 email: "sankalpsrv@protonmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account

@@ -2,6 +2,7 @@
 body {
   background: $backgroundColour;
   color: $bodyColour;
+  font-size: 1.35em;
   height: 100%;
   display: flex;
   @include flex-direction(column);
@@ -138,7 +139,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 75%;
   }
 }
 

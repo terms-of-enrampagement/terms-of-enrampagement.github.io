@@ -36,3 +36,5 @@ Chapter 5 is where the author offers some concluding thoughts on what the learni
 multi-faceted overview such as the present study point towards.
 
 READ PDF AT THE FOLLOWING LINK https://github.com/sankalpsrv/sankalpsrv.github.io/blob/static/assets/pdfs/ComplianceWithEnvRegulations.pdf
+
+{% pdf "/assets/pdfs/ComplianceWithEnvRegulations.pdf no_link %}

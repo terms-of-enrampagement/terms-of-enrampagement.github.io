@@ -36,6 +36,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-pdf-embed
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page

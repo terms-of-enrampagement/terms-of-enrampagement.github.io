@@ -99,7 +99,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Sankalp 'Sankeiy' Srivastava" # Site name or title, also used in jekyll-seo-tag
-logo: "https://i.imgur.com/d4GhpHN.png" # Site logo, also used in jekyll-seo-tag
+# logo: "https://i.imgur.com/d4GhpHN.png" # Site logo, also used in jekyll-seo-tag
 description: "A website for Sankalp's portfolio and blog"
 url: "https://sankalpsrv.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""

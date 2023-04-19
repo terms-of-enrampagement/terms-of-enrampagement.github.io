@@ -35,6 +35,5 @@ gone into detail with respect to two different framework conventions.
 Chapter 5 is where the author offers some concluding thoughts on what the learnings from a
 multi-faceted overview such as the present study point towards.
 
-READ PDF AT THE FOLLOWING LINK https://github.com/sankalpsrv/sankalpsrv.github.io/blob/static/assets/pdfs/ComplianceWithEnvRegulations.pdf
-
-{% pdf "/assets/pdfs/ComplianceWithEnvRegulations.pdf no_link %}
+<style> .pdf-embed-wrap-7275bf8c-a2fb-409c-b17d-876797259ac3 { display:flex; flex-direction: column; width: 100%; height: 650px; } .pdf-embed-container-7275bf8c-a2fb-409c-b17d-876797259ac3 { height: 100%; } .pdf-embed-container-7275bf8c-a2fb-409c-b17d-876797259ac3 iframe { width: 100%; height: 100%; } </style>
+<div class="pdf-embed-wrap-7275bf8c-a2fb-409c-b17d-876797259ac3"> <div class="pdf-embed-container-7275bf8c-a2fb-409c-b17d-876797259ac3"> <iframe src="/assets/pdfs/ComplianceWithEnvRegulations.pdf" frameborder="0" allowfullscreen=""></iframe> </div> </div>

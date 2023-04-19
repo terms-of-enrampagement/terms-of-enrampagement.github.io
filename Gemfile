@@ -16,5 +16,8 @@ gem "jekyll-feed", "~> 0.15"
 gem "jekyll-commonmark", "~> 1.3.1"
 gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
-gem "jekyll-pdf-embed"
+
+source "https://rubygems.pkg.github.com/mihajlonesic" do
+  gem "jekyll-pdf-embed", "1.1.1"
+end 
 

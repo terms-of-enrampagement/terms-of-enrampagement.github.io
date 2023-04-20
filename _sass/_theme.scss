@@ -428,8 +428,9 @@ pre code {
   .button,
   button {
     background-image: none;
+    background: #67C2FE;
     text-shadow: none;
-    color: $backgroundColour;
+    color: black;
     &:hover,
     &:active,
     &:focus {

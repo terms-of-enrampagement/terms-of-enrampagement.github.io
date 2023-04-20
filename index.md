@@ -16,12 +16,9 @@ To know more about my work experience {% include button.html text="Link to my Li
 </p>
 
 
-[to add this later]: I also make media content, which you are encouraged to explore on my YouTube channel linked as follows {% include button.html text="Link to my LinkedIn" link="https://www.linkedin.com/in/sankalp-srivastava-470593129/" %}
+[to add this later]: I also make media content, which you are encouraged to explore on my YouTube channel linked as follows {% include button.html text="Link to my YouTube" link="" %}
 
 
 [optional button]: {% include button.html text="Click here to go to the blog" link="https://sankalpsrv.github.io/blog" %} 
 
-<p> {% include button.html text="Send Email" link="mailto:sankalpsrv@protonmail.com" %} </p>
-
-
- 
+<p> {% include button.html text="Send Email" link="mailto:sankalpsrv@protonmail.com" %} {% include button.html text="Mastodon" link="https://mastodon.social/@sankeiy" %} {% include button.html text="Twitter" link="https://twitter.com/sikeitsthealps" %} </p>

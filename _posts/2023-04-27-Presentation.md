@@ -1,5 +1,5 @@
 ---
-title: My presentation on Compliance with International Environmental Law
+title: My presentation on Efficacy of International Environmental Law
 feature_text: |
   Compliance with International Environmental Law - Content Analysis
 excerpt: |

@@ -1,5 +1,5 @@
 ---
-title: A book review of Darko Suvin's "Brecht's Communist Manifesto Today:: Poetry, Utopia, Doctrine"
+title: A book review of Darko Suvin's "Brecht's Communist Manifesto Today Poetry, Utopia, Doctrine"
 feature_text: |
   A report of "a report of a report" - Bertolt Brecht's translated versification of the Communist Manifesto
 excerpt: | 

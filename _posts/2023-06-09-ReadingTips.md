@@ -43,7 +43,7 @@ Another example is this passage from the Supreme Court Clerkship exam, 2023 - so
 
 Once, you've begun to interpret these keywords in the passage, your mind is already doing the work of reading the passage with an analytical bent of mind! And this is what you need to answer those questions, write that book review, or paraphrase that academic citation.
 
-<li> Read long passages with haste only if sure of its implications/context/content 
+<li> Read long passages with haste only if sure of its implications/context/content </li>
 <br>
 You might find that you recognise a passage at a glance, which is a good thing. To ensure that you systematically spot keywords for analytical processing, you must ignore conjunctions, articles, and other figures of speech.
 
@@ -51,16 +51,12 @@ You might find that you recognise a passage at a glance, which is a good thing. 
 
 Look for identifiers of content/context/implication such as:
 
-<br> 
+<br> 	-Clause title
+<br>   	-Section number 
+<br>   	-Maxim 
+<br>	-Name of document
+<br>   	-Relationship
 
-  <ul> 
-    <li> Clause title </li>
-    <li> Section number </li>
-    <li> Maxim </li>
-    <li> Name of document </li> 
-    <li> Relationship </li> 
-  </ul>
-</li>
 <h5> Reading by anchoring yourself to identifiers helps in skipping through the content that it tags/identifies. For example, if I know that Section 11 of the Code of Civil Procedure, 1908 defines <i> "res judicata" </i>, I need not read the discussion on it while reading through the text/judgment. </h5>
 
 <br>

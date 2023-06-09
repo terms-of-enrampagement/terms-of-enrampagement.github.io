@@ -17,7 +17,7 @@ For starters, I found that this process works best when you...
 
 <ol>
 
-<li> Pick a word in the passage and think about possible interpretations and legal implications for concerned person who would dictate the content for. </li>
+<li> Pick a word in the passage and think about possible interpretations and legal implications for the person who the content is intended for. </li>
 
 <br> 
 
@@ -25,7 +25,7 @@ The person I refer to is the intended audience of the passage. It can be anythin
 
 <br>
 
-<h5> IP Lawyers, Criminal lawyers, Civil lawyers may, for instance, interpret the sentence "Damage was incurred to my property due to the defendant's acts". </h5>
+<h5> IP Lawyers, Criminal lawyers, Civil lawyers may, for instance, interpret the following sentence differently: "Damage was incurred to my property due to the defendant's acts". </h5>
 
 <br>
 
@@ -96,7 +96,7 @@ Also do not jumble up your notes. It is important to be calm and to retain your 
 <ul>
   <li> Use a background white noise generator to focus in busy areas </li>
   <li> Warmup for exam by reading and writing important portions of the text you have read in note form</li>
-  <li> Use the rough space for meeting notes </li>
+  <li> Use the rough space for making notes </li>
   <li> Give a mock exam by yourself 
 	<ul>
 	  <li> Good for learning what is considered important </li>

@@ -4,7 +4,7 @@ feature_text: |
   A guide to reading for exams, researching, and literature reviews
 excerpt: |
   "It helps if you brace yourself for absorbing more information, through applying mindfulness, and give reading the seriousness it deserves"
-date: 2023-06-05
+date: 2023-06-09
 ---
 
 Reading tips.
@@ -37,7 +37,7 @@ Here the word damage can mean depreciation of value of an intangible intellectua
 
 Another example is this passage from the Supreme Court Clerkship exam, 2023 - some keywords have been highlighted that bear special significance. Once you read over a passage by glancing over just the words, the words with special significance should come out to you immediately.
 
-<img src="images/Reading-Instruct.png" alt="A passage from BR Ambedkar's speech before the Constituent Assembly">
+<img src="/assets/images/Reading-Instruct.png" alt="A passage from BR Ambedkar's speech before the Constituent Assembly">
 
 <br>
 

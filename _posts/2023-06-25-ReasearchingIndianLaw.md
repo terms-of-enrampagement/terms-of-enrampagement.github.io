@@ -66,11 +66,11 @@ These valuable sources of multidisciplinary and even legal scholarly content in 
 	- [The Electronic Journals Library](http://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=1&lang=en&notation=P) - This index provides a resource of "freely available texts" when filtered through with the option named as such. You can also similarly filter on Google Scholar and Semantic Scholar.
 	- While not "popular" per se, some governmental institutes also post a compendium of links to Open Access Databases in the law category. For example, [Delhi Judicial Academy](https://judicialacademy.nic.in/knowledge-gateway/open-access-resources) provides international resources, and [NALSAR, Hyderabad](https://library.nalsar.ac.in/open-access-resources/) provides a list of resources from a variety of jurisdictions.
 
-<h3> But how can we make the process of grasping concepts of a relatively new law more effecient? </h3>
-There are various tools available, for example 
+<h3> But how must one make the process of grasping concepts of a relatively new law more effecient? </h3>
+Firstly, there are various tools available for saving databases/websites/portals or links obtained from it, for example 
 - Where possible, you can download the RSS feed and view it in a Feed Reader.  
 - You can save all of them as bookmarks.
 - You can index the same in Excel, CSV, or any convenient format for yourself.
 - You can also use an app that stores your web links such as Pocket or Raindrop.
 
-In conducting legal research, the traditional approach would involve consulting a textbook or sifting through results from an online subscription service.-However, I will take some popular use-cases and demonstrate how to conduct research on those sample problems using only free databases in the sequel to this article.
+Furthermore, in conducting legal research, the traditional approach would involve consulting a textbook or sifting through results from an online subscription service.-However, I will take some popular use-cases and demonstrate how to conduct research on those sample problems using only free databases in the sequel to this article.

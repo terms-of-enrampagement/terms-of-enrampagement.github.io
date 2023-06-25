@@ -101,7 +101,7 @@ title: "Sankalp Srivastava" # Site name or title, also used in jekyll-seo-tag
 # logo: "https://i.imgur.com/d4GhpHN.png" # Site logo, also used in jekyll-seo-tag
 description: "A website for Sankalp's portfolio and blog"
 url: "sankalpsrv.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "sankalpsrv.github.io"
+baseurl: ""
 repo: ""
 email: "sankalpsrv@protonmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account

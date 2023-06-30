@@ -57,6 +57,7 @@ Some examples I found helpful of resources available on the ecourts portal are a
 	- [SwayamPrabha](https://www.swayamprabha.gov.in/index.php/program/archive_he/6) - This is a set of DTH channels maintained by the INFLIB Centre. Channel 6 linked here has content on Indian laws, and is focussed on forensic investigation and criminal laws.
 	- [e-PG-Pathshala](http://epgp.inflibnet.ac.in/) - A set of resources maintained by Ministry of Human Resource Development, where you can browse by subject, including law. 
 	
+	
 <h3> List of free legal databases operated by non-governmental entities </h3>
 
 - [Legal Information Institute of India](http://www.liiofindia.org) - An initiative of the Free Access to Law Movement run in collaboration with Prof. Ranbir Singh, Prof. V.C. Vivekanandan and some Indian Universities. It provides a catalog of recent and important judgments, some databases on state and central laws, and also peer-reviewed journals.
@@ -68,7 +69,9 @@ These valuable sources of multidisciplinary and even legal scholarly content in 
 	- [Database of Open Access Journals](https://doaj.org) - As of the date of my writing, there are 537 Law journals in English indexed here. This supports keyword search and can be used for sharpening your legal awareness with new trends. 
 	- [The Electronic Journals Library](http://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=1&lang=en&notation=P) - This index provides a resource of "freely available texts" when filtered through with the option named as such. You can also similarly filter on Google Scholar and Semantic Scholar.
 	- While not "popular" per se, some governmental institutes also post a compendium of links to Open Access Databases in the law category. For example, [Delhi Judicial Academy](https://judicialacademy.nic.in/knowledge-gateway/open-access-resources) provides international resources, and [NALSAR, Hyderabad](https://library.nalsar.ac.in/open-access-resources/) provides a list of resources from a variety of jurisdictions.
-
+	- [Law Review Commons](https://lawreviewcommons.com) - This is the largest index of open access journals in the field of law, with a majority of English language and American journals.
+	- In general, DSpace, provides an open source package for digital materials, and is used often by universities across the world. You can browse the list of implementations on their [registry](https://registry.lyrasis.org).
+	
 <h3> But how must one make the process of grasping concepts of a relatively new law more effecient? </h3>
 Firstly, there are various tools available for saving databases/websites/portals or links obtained from it, for example 
 - Where possible, you can download the RSS feed and view it in a Feed Reader.  

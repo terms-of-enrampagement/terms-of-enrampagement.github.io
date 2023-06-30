@@ -66,11 +66,12 @@ Some examples I found helpful of resources available on the ecourts portal are a
 
 - Open Access Journals/Journals with free texts
 These valuable sources of multidisciplinary and even legal scholarly content in peer-reviewed journals, sometimes available in the public domain or a "copyleft" license are useful for legal and non-legal research both. Some popular indexes are:-
+	- [Law Review Commons](https://lawreviewcommons.com) - This is the largest index of open access journals in the field of law, with a majority of English language and American journals.	
 	- [Database of Open Access Journals](https://doaj.org) - As of the date of my writing, there are 537 Law journals in English indexed here. This supports keyword search and can be used for sharpening your legal awareness with new trends. 
 	- [The Electronic Journals Library](http://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=1&lang=en&notation=P) - This index provides a resource of "freely available texts" when filtered through with the option named as such. You can also similarly filter on Google Scholar and Semantic Scholar.
 	- While not "popular" per se, some governmental institutes also post a compendium of links to Open Access Databases in the law category. For example, [Delhi Judicial Academy](https://judicialacademy.nic.in/knowledge-gateway/open-access-resources) provides international resources, and [NALSAR, Hyderabad](https://library.nalsar.ac.in/open-access-resources/) provides a list of resources from a variety of jurisdictions.
-	- [Law Review Commons](https://lawreviewcommons.com) - This is the largest index of open access journals in the field of law, with a majority of English language and American journals.
-	- In general, DSpace, provides an open source package for digital materials, and is used often by universities across the world. You can browse the list of implementations on their [registry](https://registry.lyrasis.org).
+
+- In general, DSpace, provides an open source package for digital materials, and is used often by universities across the world. You can browse the list of implementations on their [registry](https://registry.lyrasis.org).
 	
 <h3> But how must one make the process of grasping concepts of a relatively new law more effecient? </h3>
 Firstly, there are various tools available for saving databases/websites/portals or links obtained from it, for example 

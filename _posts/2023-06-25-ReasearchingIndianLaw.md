@@ -51,9 +51,12 @@ Some examples I found helpful of resources available on the ecourts portal are a
    - Proforma of various litigation forms/applications is made available on the website of [Central District Court, Delhi](https://centraldelhi.dcourts.gov.in/forms/)
 
 - Websites of Indian universities/Databases maintained by Indian Universities
+	- [e-Gyan Kosh](https://egyankosh.ac.in) - It is a copyrighted implementation of Dspace with course content by the Open and Distance Learning institutions in the country. The Self Learning Material provided by IGNOU covers many departments/fields of study, including, [Law](https://egyankosh.ac.in/handle/123456789/22) but this is also a good place to observe interdisciplinarity in the study of law, such as by looking for, and accessing resources that fall within legal studies, but are categorised under [Commerce](https://egyankosh.ac.in/handle/123456789/5010), [Business](https://egyankosh.ac.in/handle/123456789/56324), [Mental Health](https://egyankosh.ac.in/handle/123456789/39728), and [Labour Laws](https://egyankosh.ac.in/handle/123456789/4177).
 	- [The National Digital Library](https://ndl.iitkgp.ac.in) - One of the flagship measures taken by IIT Kharagpur to digitise records from different departments but it is currently lacking comprehensive coverage on law. 
 	- [Shodhganga](https://shodhganga.inflibnet.ac.in) - This is a collection of dissertations and theses from participating Indian universities which provides keyword and category-wise search.
-
+	- [SwayamPrabha](https://www.swayamprabha.gov.in/index.php/program/archive_he/6) - This is a set of DTH channels maintained by the INFLIB Centre. Channel 6 linked here has content on Indian laws, and is focussed on forensic investigation and criminal laws.
+	- [e-PG-Pathshala](http://epgp.inflibnet.ac.in/) - A set of resources maintained by Ministry of Human Resource Development, where you can browse by subject, including law. 
+	
 <h3> List of free legal databases operated by non-governmental entities </h3>
 
 - [Legal Information Institute of India](http://www.liiofindia.org) - An initiative of the Free Access to Law Movement run in collaboration with Prof. Ranbir Singh, Prof. V.C. Vivekanandan and some Indian Universities. It provides a catalog of recent and important judgments, some databases on state and central laws, and also peer-reviewed journals.

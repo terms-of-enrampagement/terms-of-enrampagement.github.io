@@ -1,7 +1,7 @@
 ---
 title: Utilising free databases for research on Indian Law
 feature_text: |
-  A demonstration of 
+  The demonstration and simplification of a cost-efficient research process
 excerpt: |
   "...freely accessible sources can augment if not fully replace your research workflow if you have familiarity with their content, and this is what I want to demonstrate in this blog post."
 date: 2023-07-22
@@ -16,9 +16,9 @@ Table of Contents:
 </ol>
 
 
-In my [previous post](https://sankalpsrv.github.io/2023/06/25/ReasearchingIndianLaw/), I had provided a list of freely accessible databases, maintained by Indian and international institutes.
+In my [previous post](https://sankalpsrv.github.io/2023/06/25/ReasearchingIndianLaw/), I had provided a list of freely accessible resource lists, maintained by Indian and international institutes.
 
-One may have some hesitancy to use these freely accessible databases in their research workflow, owing to the fact that these sources mostly function as lists of information that have not been indexed in a database anywhere, as far as I know.
+One may have some hesitancy to use these freely accessible resources in their research workflow, owing to the fact that these sources mostly function as lists of information that have not been indexed in a database anywhere, as far as I know. However, I am attempting to solve this problem (see bottom of page for a link)
 
 These freely accessible sources can augment if not fully replace your research workflow if you have familiarity with their content, and this is what I want to demonstrate in this blog post.
 
@@ -28,7 +28,7 @@ These freely accessible sources can augment if not fully replace your research w
 </section> 
  <p> For anyone familiar with arbitration law, this is a familiar headache that can be approached from as many points of view as the arbitration act affords opportunity for recourse through. <br>
 
-<img src = "/assets/images/Process-1.jpg" alt = "Workflow for researching on arbitration">
+<img src = "/assets/images/Process-1.jpg" alt = "Workflow for researching on arbitration. Three steps are described below, visualised in the image" width="550" height="800">
 
 <h5> Step One: </h5> 
  
@@ -61,7 +61,7 @@ These journal articles can be found from journal indexes such as: <br>
  <h3> Sample Research Topic Number 2: Law relating to disposal of E-Waste </h3>
 </section> 
 
- <img src = "/assets/images/Process-1.png" alt = "Workflow for researching on Environmental Laws">
+ <img src = "/assets/images/Process-1.jpg" alt = "Workflow for researching on Environmental Laws, two steps described below with the issue and solution illustrated" width="550" height="800">
  
  <p> Owing to the onus of policymaking and governance in India focussing on waste disposal and recycling, there has been a push towards creation of a rules and regulations regime for meeting these policy objectives. </p>
  Hence, treating the ascertainment of such rules and regulations as regards treatment of different categories of waste:- say electronic waste, plastic waste, and bio-medical waste is a common research proposition that involves looking through Indian government websites.

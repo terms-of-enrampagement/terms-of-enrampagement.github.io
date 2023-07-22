@@ -28,7 +28,7 @@ These freely accessible sources can augment if not fully replace your research w
 </section> 
  <p> For anyone familiar with arbitration law, this is a familiar headache that can be approached from as many points of view as the arbitration act affords opportunity for recourse through. <br>
 
-<img src = "/assets/images/Process-1.jpg" alt = "Workflow for researching on arbitration. Three steps are described below, visualised in the image" width="550" height="800">
+<img src = "/assets/images/Process-1.jpg" alt = "Workflow for researching on arbitration. Three steps are described below, visualised in the image" width="250" height="400">
 
 <h5> Step One: </h5> 
  
@@ -61,7 +61,7 @@ These journal articles can be found from journal indexes such as: <br>
  <h3> Sample Research Topic Number 2: Law relating to disposal of E-Waste </h3>
 </section> 
 
- <img src = "/assets/images/Process-1.jpg" alt = "Workflow for researching on Environmental Laws, two steps described below with the issue and solution illustrated" width="550" height="800">
+ <img src = "/assets/images/Process-2.jpg" alt = "Workflow for researching on Environmental Laws, two steps described below with the issue and solution illustrated" width="100" height="250">
  
  <p> Owing to the onus of policymaking and governance in India focussing on waste disposal and recycling, there has been a push towards creation of a rules and regulations regime for meeting these policy objectives. </p>
  Hence, treating the ascertainment of such rules and regulations as regards treatment of different categories of waste:- say electronic waste, plastic waste, and bio-medical waste is a common research proposition that involves looking through Indian government websites.

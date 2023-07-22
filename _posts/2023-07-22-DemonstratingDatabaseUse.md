@@ -78,8 +78,11 @@ A good place to start for this proposition would be with the published literatur
 <br> Hence, the following websites are instrumental in locating the compliance requirements <br>
 1. The website of the Ministry of Environment Forests and Climate Change is instructive in this regard. Specifically, if one navigates to the <a href = "https://moef.gov.in/en/orders-archive/?pag=0"> archived orders </a>, one can locate the relevant rules from this section, such as the Plastic Waste Management Rules, 2016, and the E-Waste management rules, 2016, with the amendments made thereon. 
 
-2.  
- 
+2. Additionally, the website of the Central Pollution Control Board has resources that provide a list of archived reports, guidelines on waste disposal, and varying other notified orders and documents.
+
+3. There are various portals that the Indian Government maintains such as the "Parivesh" portal for Environmental Clearances, and the Climate Change Knowledge Portal.
+
+
  <h3> This proves to be a cumbersome research process, how do I make it simple? </h3>
  <br>
  

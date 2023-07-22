@@ -28,7 +28,7 @@ These freely accessible sources can augment if not fully replace your research w
 </section> 
  <p> For anyone familiar with arbitration law, this is a familiar headache that can be approached from as many points of view as the arbitration act affords opportunity for recourse through. <br>
 
-<img src = "" alt = "Workflow for researching on arbitration">
+<img src = "/static/images/Process-1.jpg" alt = "Workflow for researching on arbitration">
 
 <h5> Step One: </h5> 
  
@@ -60,6 +60,8 @@ These journal articles can be found from journal indexes such as: <br>
  <section id="Sample2">
  <h3> Sample Research Topic Number 2: Law relating to disposal of E-Waste </h3>
 </section> 
+
+ <img src = "/static/images/Process-2.jpg" alt = "Workflow for researching on Environmental Laws">
  
  <p> Owing to the onus of policymaking and governance in India focussing on waste disposal and recycling, there has been a push towards creation of a rules and regulations regime for meeting these policy objectives. </p>
  Hence, treating the ascertainment of such rules and regulations as regards treatment of different categories of waste:- say electronic waste, plastic waste, and bio-medical waste is a common research proposition that involves looking through Indian government websites.
@@ -77,20 +79,20 @@ A good place to start for this proposition would be with the published literatur
 <p> Having identified the basic legal regime in terms of the rules and regulations disseminated in academic literature, it is key to then utilise the Ministry websites, since this is a diversified regime across many sectors (for instance, Electronic waste disposal is simultaneously the responsibility of the Central and State Pollution Control Boards, as well as Municipal Corporations under the E-Waste (Management and Handling) Rules, 2011).
 <br> Hence, the following websites are instrumental in locating the compliance requirements <br>
 1. The website of the Ministry of Environment Forests and Climate Change is instructive in this regard. Specifically, if one navigates to the <a href = "https://moef.gov.in/en/orders-archive/?pag=0"> archived orders </a>, one can locate the relevant rules from this section, such as the Plastic Waste Management Rules, 2016, and the E-Waste management rules, 2016, with the amendments made thereon. 
-
+<br>
 2. Additionally, the website of the Central Pollution Control Board has resources that provide a list of archived reports, guidelines on waste disposal, and varying other notified orders and documents.
-
+<br>
 3. There are various portals that the Indian Government maintains such as the "Parivesh" portal for Environmental Clearances, and the Climate Change Knowledge Portal.
-
+<br>
 
  <h3> This proves to be a cumbersome research process, how do I make it simple? </h3>
  <br>
  
  There are various problems faced while traversing through the vast trove of Ministry websites and sources, such as:
- 
- - Unavailability of a list of archived resources.
- - Search features on websites (such as the government website portal India.gov.in) not fully representative of actual resources available. 
- - A singular access point for searching multiple websites. 
+ <br>
+ - Unavailability of a list of archived resources.<br>
+ - Search features on websites (such as the government website portal India.gov.in) being not fully representative of actual resources available. <br> 
+ - A singular access point for searching multiple websites. <br>
 
 <section id="Database">
 
@@ -101,12 +103,14 @@ A good place to start for this proposition would be with the published literatur
  
 <h3> This is conditional upon being developed satisfactorily </h3>
 
-A few constraints that involve my web-scraping abilities, and also the dynamic nature of Indian websites
+A few constraints involve my web-scraping abilities, and also the dynamic nature of Indian websites. 
  
-Nevertheless, I will hopefully be introducing the web-app created by me soon, for the purpose of locating documents with ease. This will effectively function as a customised search index with features for browsing. 
+Nevertheless, I will hopefully be introducing the web-app created by me soon, for the purpose of locating legal resources and documents with ease. This will effectively function as a customised search index with features for browsing. 
 
 <section id = "AlphaRelease">
 
-<h1>An in-development version of the aforementioned web-app can be found at the following link: <a href="https://env-law-notification-browser.onrender.com">https://env-law-notification-browser.onrender.com </a></h1>
+<h3>An in-development version of the aforementioned web-app can be found at the following link:
+
+<br> <a href="https://env-law-notification-browser.onrender.com">https://env-law-notification-browser.onrender.com </a></h3>
 
 </section>

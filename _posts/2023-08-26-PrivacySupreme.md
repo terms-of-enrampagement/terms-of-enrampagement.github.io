@@ -31,7 +31,7 @@ A major point of contention amongst the panellists was the impact of biases invo
 
 This was a crucial topic in the first session where the impact of prevalent caste prejudices amongst different sections of the criminal justice system was highlighted. This included the prejudice that exists at the most basic level of data collection or crime reporting. We, as a society with caste seeped into its psyche, are more likely than not going to behave in a very discriminatory manner without realizing when interacting at the point of data entry with law enforcement. In a way, this highlights that the prejudice will be very difficult to eliminate from Artificial Intelligence enabled criminal justice systems. 
 
-The definition of crime itself involves violence inflicted by the oppressor castes on the oppressed. This is apparent from the data available with the National Crime Records Bureau. 
+The definition of crime itself involves violence inflicted by the oppressor castes on the oppressed. This is apparent from the data available with the [National Crime Records Bureau on crimes against SC/STs](https://ncrb.gov.in/sites/default/files/CII-2021/CII-2021-Tables.html). It is also well known that literacy, income, and other human development indicators where a Dalit accused may be disadvantaged affects [imprisonment rates](https://indianexpress.com/article/india/ncrb-data-higher-share-of-dalits-tribals-muslims-in-prison-than-numbers-outside-6575446/). 
 
 It was also implicit towards the end of the conversation that algorithmic transparency was not possible, while it was mentioned in the discussion with the audience that we need to examine who owns the data being created, it being decided by experts in the field. 
 

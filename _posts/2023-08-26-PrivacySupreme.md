@@ -1,13 +1,13 @@
 ---
 title: Privacy Supreme 2023 - a summary and some thoughts 
 feature_text: |
-  Some thoughts arising from the discussion 
+  Some thoughts on semiotics of law arising from the discussion 
 excerpt: |
   "The changing terminology in policy documents and initiatives can also be indicative of different groups in different eras of the development of technology, using terminologies that suit the purpose of their developmental paradigms."
 date: 2023-08-26
 ---
 
-[The Internet Freedom Foundation](https://internetfreedom.in/donate/) was celebrating six years of the Indian right to privacy judgment in their flagship event "Privacy Supreme" on the 24th of August (this past Thursday). Since I was in Delhi and am researching on the topic of semantics of law, I went there to attend and see what insights I could gain for future readings in an area of interest.
+[The Internet Freedom Foundation](https://internetfreedom.in/donate/) was celebrating six years of the Indian right to privacy judgment in their flagship event "Privacy Supreme" on the 24th of August (this past Thursday). Since I was in Delhi and am researching on the topic of semiotics of law, I went there to attend and see what insights I could gain for future readings in an area of interest.
 
 While the initial few thoughts below are more or less a summation of the learned panellists at IFF's event, some of my own thoughts occasionally interweave. I try to contain them towards the end of the session summaries and as separate sections. 
 
@@ -22,7 +22,7 @@ While the initial few thoughts below are more or less a summation of the learned
 
 <section id="session-1">
 <h2>The non-artificial consequences of AI
-Moderated by Shivangi Narayan (researcher at AGOPOL) and Samarth Bansal (Independent journalist, writer, and coder)</h2>
+Panel constituted of Shivangi Narayan (researcher at AGOPOL) and Samarth Bansal (Independent journalist, writer, and coder)</h2>
 </section>
 
 A major point of contention amongst the panellists was the impact of biases involved in constructing artificial intelligence systems. The panellists discussed how there was a divide amongst the technical and the ethical aspects of artificial intelligence. It emerged from the discussion that these biases were not capable of expression in the form of algorithms. And while it was also argued that having an approximately foolproof system would dispel the problem of biases, I don’t think it was compelling enough since the impact of an error in criminal justice systems is not minuscule. Samarth also stated two foremost modalities of artificial intelligence, the first being emergent abilities, and the second being alignment. 
@@ -73,9 +73,9 @@ Panellists - Nikita Sonavane (Lawyer and co-founder of the Criminal Justice and 
 
 The "castelessness" or relative caste mobility amongst the Varnas in Hindu society projected by the upper castes was a central theme of this discussion. Manoj discussed how the "Guna-Karma" idea of rebirth according to virtues in previous lives betrays even Hindu nobility as it prevented the Maratha King "Chhatrapati" Shivaji from asserting the claim to his title due to Brahminical order in the day not allowing it. This has been written about in Manoj's book, "Caste Pride: Battles for equality in Hindu India" as well.
 
-The session was built around a discussion involving historical data ranging from the privy council decisions in the 1850s to the recent Patna High Court decision on the caste census. Colonial prejudices and data collection on criminal tribes such as the listing of "thugees" by their physical and behavioral characteristics was pointed out by Nikita. This pointed to the fact that the data and the mechanisms for collecting data in a prejudicial manner were always there, however, with artificial intelligence, the problem of bias creeping into larger systemic effects is to be watched out for.
+The session was built around a discussion involving historical data ranging from the privy council decisions in the 1850s to the recent [Patna High Court decision](https://www.livelaw.in/high-court/patna-high-court/patna-high-court-bihar-caste-survey-state-govt-competent-determine-backward-communities-development-justice-234176) on the caste census. Colonial prejudices and data collection on criminal tribes such as the listing of "thugees" by their physical and behavioral characteristics was pointed out by Nikita. This pointed to the fact that the data and the mechanisms for collecting data in a prejudicial manner were always there, however, with artificial intelligence, the problem of bias creeping into larger systemic effects is to be watched out for.
 
-Questions were raised regarding the end of the census because of the availability of data collection from birth. This presumably refers to the goal of hundred percent Aadhaar adoption which through its demographic data collection is thought to eliminate the need for caste census. Nikita responded to this by stating, amongst others, that data collection entrenched structures of power, and that it obfuscates what is happening.
+Questions were raised regarding the end of the census because of the availability of data collection from birth. This presumably refers to the goal of hundred percent Aadhaar adoption which through its demographic data collection is thought to eliminate the need for caste census. Nikita responded to this by stating, amongst other things, that data collection exists in entrenched structures of power, and that it obfuscates what is happening.
 
 <section id="caste-census">
 <h2>Birth related demographic data sufficient in caste survey?</h2>

@@ -21,8 +21,8 @@ While the initial few thoughts below are more or less a summation of the learned
 6. [Birth related demographic data sufficient in caste survey?](#caste-census)
 
 <section id="session-1">
-## The non-artificial consequences of AI
-Moderated by Shivangi Narayan (researcher at AGOPOL) and Samarth Bansal (Independent journalist, writer, and coder)
+<h2>The non-artificial consequences of AI
+Moderated by Shivangi Narayan (researcher at AGOPOL) and Samarth Bansal (Independent journalist, writer, and coder)</h2>
 </section>
 
 A major point of contention amongst the panellists was the impact of biases involved in constructing artificial intelligence systems. The panellists discussed how there was a divide amongst the technical and the ethical aspects of artificial intelligence. It emerged from the discussion that these biases were not capable of expression in the form of algorithms. And while it was also argued that having an approximately foolproof system would dispel the problem of biases, I don’t think it was compelling enough since the impact of an error in criminal justice systems is not minuscule. Samarth also stated two foremost modalities of artificial intelligence, the first being emergent abilities, and the second being alignment. 
@@ -36,7 +36,7 @@ The definition of crime itself involves violence inflicted by the oppressor cast
 It was also implicit towards the end of the conversation that algorithmic transparency was not possible, while it was mentioned in the discussion with the audience that we need to examine who owns the data being created, it being decided by experts in the field. 
 
 <section id="thoughts-1">
-## Thoughts on how emergent abilities of AI "emerge"
+<h2>Thoughts on how emergent abilities of AI "emerge"</h2>
 </section>
 
 The above two points refer to the power of epistemic communities to shape the world we live in. For instance, the scholars of artificial intelligence ethics have only themselves to contain their perceived errors, existing as they do in a highly specialized field with knowledge flowing through existing power hierarchies and possibly being affected by caste and the other very same identity markers that create biases. It is then necessary for policymakers to involve ethics scholars in their deliberations and mechanisms transparently. This takes the power to decide the future of which "emergent abilities" materialize outside the control of corporations which are essentially autonomous in deciding the future of an extremely powerful technological advancement. 
@@ -44,8 +44,8 @@ The above two points refer to the power of epistemic communities to shape the wo
 The requirement of transparency also emerged as a key concern in the next session titled,
 
 <section id="session-2">
-## "How public are digital public infrastructures?"
-Moderated by Aditi Agrawal (independent technology journalist) and the panellists were Mansi Kedia (Senior Fellow at ICRIER), Rohit Kumar (Founding partner at the Quantum Hub), Nikhil Pahwa (Entrepreneur, journalist and activist)
+<h2>"How public are digital public infrastructures?"
+Moderated by Aditi Agrawal (independent technology journalist) and the panellists were Mansi Kedia (Senior Fellow at ICRIER), Rohit Kumar (Founding partner at the Quantum Hub), Nikhil Pahwa (Entrepreneur, journalist and activist)</h2>
 </section>
 
 The moderator began by introducing the definition of digital public infrastructures as given by the Bill and Melinda Gates foundation. I found this definition on an article by the aforementioned organization: *"DPI is a digital network that enables countries to safely and efficiently deliver economic opportunities and social services to all residents. DPI can be compared to roads, which form a physical network that connects people and provides access to a huge range of goods and services."*
@@ -53,7 +53,7 @@ The moderator began by introducing the definition of digital public infrastructu
 There was initially some difficulty on part of the panel to arrive at an understanding about the scope. An audience member also talked about the previous terminology that had existed in public discourse prior to the current naming as "Digital Public Infrastructure".
 
 <section id="terminology">
-## Change in terminology
+<h2>Change in terminology</h2>
 </section>
 
 The changing terminology in policy documents and initiatives can also be indicative of different groups in different eras of the development of technology, using terminologies that suit the purpose of their developmental paradigms. However, the constant change between the terms used to describe industrial and technical frameworks can lead to ambiguity. For instance, in the case of "digital public infrastructure", the struggle to arrive at a definition is ongoing. ([See this attempt by the ORF](https://www.orfonline.org/research/defining-the-digital-public-infrastructure-approach/) to arrive at a definition of DPI which mentions "participatory government frameworks" whereas the [Bill and Melinda Gates Foundation characterizes the entirety of it as a "digital network"](https://www.gatesfoundation.org/ideas/articles/what-is-digital-public-infrastructure)). Evidently, this led to the adoption of the ["G20 Framework for systems of digital public infrastructure"](https://www.g20.org/content/dam/gtwenty/gtwenty_new/document/G20_Digital_Economy_Outcome_Document_and_Chair's_Summary_19082023.pdf) as part of the "Outcome Document" at the Digital Economy Ministers Meeting.
@@ -67,8 +67,8 @@ The competition law consequences of a regulating entity being administered by th
 There are pre-existing standards that may have to be adopted alongside digital public infrastructure that regulate engineering and provide guidelines for the development of systems and their administration. For instance, there are [core principles laid down by the Bureau of International Standards for "systematically important payment systems"](https://www.bis.org/cpmi/publ/d43.pdf) principle 10 of which is implied to include transparency in governance of payment systems. These principles have been promulgated in 2001 and can effectively be used as a yardstick for measuring transnational concordance amongst payment systems in the digital public infrastructure.
 
 <section id="session-3">
-## Session 3: "Caste, Privacy, and digital technologies"
-Panellists - Nikita Sonavane (Lawyer and co-founder of the Criminal Justice and Police Accountability) and Manoj Mitta (Author, Caste Pride: Battles for equality in Hindu India)
+<h2>Session 3: "Caste, Privacy, and digital technologies"
+Panellists - Nikita Sonavane (Lawyer and co-founder of the Criminal Justice and Police Accountability) and Manoj Mitta (Author, Caste Pride: Battles for equality in Hindu India)</h2>
 </section>
 
 The "castelessness" or relative caste mobility amongst the Varnas in Hindu society projected by the upper castes was a central theme of this discussion. Manoj discussed how the "Guna-Karma" idea of rebirth according to virtues in previous lives betrays even Hindu nobility as it prevented the Maratha King "Chhatrapati" Shivaji from asserting the claim to his title due to Brahminical order in the day not allowing it. This has been written about in Manoj's book, "Caste Pride: Battles for equality in Hindu India" as well.
@@ -78,7 +78,7 @@ The session was built around a discussion involving historical data ranging from
 Questions were raised regarding the end of the census because of the availability of data collection from birth. This presumably refers to the goal of hundred percent Aadhaar adoption which through its demographic data collection is thought to eliminate the need for caste census. Nikita responded to this by stating, amongst others, that data collection entrenched structures of power, and that it obfuscates what is happening.
 
 <section id="caste-census">
-## Birth related demographic data sufficient in caste survey?
+<h2>Birth related demographic data sufficient in caste survey?</h2>
 </section>
 
 This question also relates back to the points raised by the speakers earlier regarding caste mobility. This would indicate that mere birth and death data collection is not sufficient to collect data in a way that captures the demographic factors. Further, to add to what Nikita said about the obfuscation of data collection, one can also see it as a policy move that serves its own discursive as well as functional purposes that can be refined in addition to the now-ubiquitous birth data records. For instance, people responding to a caste census can also provide information that is not just demographic in categorization. The caste census in Bihar has a total of 17 heads including caste as one of them. There will be other human development markers collected as well, that can in due course be separated from an all-encompassing database such as the Aadhar with a different body entrusted with the survey in the future such as the Bihar State Backward Classes Commission also being a different data fiduciary with its own tailored policies to suit these purposes.

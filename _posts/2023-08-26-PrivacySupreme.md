@@ -1,7 +1,7 @@
 ---
 title: Privacy Supreme 2023 - a summary and some thoughts 
 feature_text: |
-  Some thoughts on the language of law arising from the discussion 
+  Some introspection on the language of law arising from the discussion at the event. 
 excerpt: |
   "The changing terminology in policy documents and initiatives can also be indicative of different groups in different eras of the development of technology, using terminologies that suit the purpose of their developmental paradigms."
 date: 2023-08-26
@@ -9,7 +9,7 @@ date: 2023-08-26
 
 [The Internet Freedom Foundation](https://internetfreedom.in/donate/) was celebrating six years of the Indian right to privacy judgment in their flagship event "Privacy Supreme" on the 24th of August (this past Thursday). Since I was in Delhi and am researching on the topic of semiotics/language of law, I went there to attend and see what insights I could gain for future readings in an area of interest.
 
-While the initial few thoughts below are more or less a summation of the learned panellists at IFF's event, some of my own thoughts occasionally interweave. I try to contain them towards the end of the session summaries and as separate sections. 
+Since I write here summing up the thoughts of the speakers at the event, this is a summary and comments with the latter being provided by me and indicated as such or contained in separate sections. 
 
 ## Table of Contents:
 

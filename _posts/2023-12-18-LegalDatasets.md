@@ -1,7 +1,7 @@
 ---
 title: Ideas for creating and utilising legal datasets
 feature_text: |
-  Computational thinking, Artificial Intelligence, and a modicum of knowledge about the law all go together to create an opportunity for lawyers. 
+  Collecting data plays a big role in Legal-Tech today! 
 excerpt: |
   "Some platforms are increasingly adopting Digital Restrictions Management, but that does not in any way guarantee that content you prepared to be shared and accessed widely will generate monetisation. You need to set your terms for the utilisation of your work, whether for "derivative works", trademark usage, or even straight up commercial use."
 date: 2023-12-18
@@ -39,7 +39,7 @@ Another rich data source is the eCourts platform which provides all the judgment
 
 - YouTube's Creative Commons works - While multimedia might be a lesser known platform for extracting legal data, there is an increasing corpus of such work licensed as Creative Commons. The best part is, you can search through all of them using YouTube's in-built filters. [And their help page offers a link to what content can be marked as such, if you are looking to upload your own.](https://support.google.com/youtube/answer/2797468)
 
-- Open Access legal journals are a great source of information - I had linked to where you can find these in a [previous blog post](https://sankalpsrv.in/2023/06/25/ReasearchingIndianLaw/) - I am reproducing the relevant section below
+- Open Access legal journals are a great source of information if you can filter by licenses to match your requirements - I had linked to where you can find these in a [previous blog post](https://sankalpsrv.in/2023/06/25/ReasearchingIndianLaw/) - I am reproducing the relevant section below
 
 
 	- Open Access Journals/Journals with free texts

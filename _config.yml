@@ -100,7 +100,7 @@ lang: en-GB # Set the site language
 title: "Sankalp Srivastava" # Site name or title, also used in jekyll-seo-tag
 # logo: "https://i.imgur.com/d4GhpHN.png" # Site logo, also used in jekyll-seo-tag
 description: "A website for Sankalp's portfolio and blog"
-url: "sankalpsrv.github.io" # Site url, also used in jekyll-seo-tag
+url: "sankalpsrv.in" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
 email: "sankalpsrv@protonmail.com"
@@ -148,8 +148,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  Twitter: true
   Email: true
 
 # Load custom fonts from fonts.google.com etc

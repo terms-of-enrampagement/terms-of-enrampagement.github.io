@@ -39,8 +39,6 @@ Another rich data source is the eCourts platform which provides all the judgment
 
 - YouTube's Creative Commons works - While multimedia might be a lesser known platform for extracting legal data, there is an increasing corpus of such work licensed as Creative Commons. The best part is, you can search through all of them using YouTube's in-built filters. [And their help page offers a link to what content can be marked as such, if you are looking to upload your own.](https://support.google.com/youtube/answer/2797468)
 
-- [Internet Archive](archive.org/) - A great many texts, reports of law commissions, and even books which are presumably listed under the Creative Commons license or Public Domain are available here. A word of caution, though, if you want to seriously extract and republish data from this source - do ascertain whether the term of copyright in the country where you plan to publish your work lies. In the case of an internet platform, those in India, would be bound by the Copyright Act regardless of its global reach. Reason I mention this is, there are many works here that are intended for US users/audiences.
-
 - Open Access legal journals are a great source of information - I had linked to where you can find these in a [previous blog post](https://sankalpsrv.in/2023/06/25/ReasearchingIndianLaw/) - I am reproducing the relevant section below
 
 

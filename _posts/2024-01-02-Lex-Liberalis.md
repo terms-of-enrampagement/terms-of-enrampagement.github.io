@@ -9,6 +9,8 @@ date: 2024-01-02
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uOn6w-T488E?si=8cxJ6eG3vkBhAKpj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# [Link to the web-app (click here)](https://lex-liberalis.onrender.com/preview)
+
 ## Part I – The problem 
 
 You have a pleading to draft. You have your issues on points of law and fact framed, and your go to option for searching for caselaw is fired up and ready. You type in the query in the search bar, set whichever filters you wanted, and proceed to go through the results. 

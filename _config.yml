@@ -61,7 +61,7 @@ sass:
   sass_dir: _sass
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: #<!-- more --> # Marks end of excerpt in posts
+excerpt_separator: <!-- readmore --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections

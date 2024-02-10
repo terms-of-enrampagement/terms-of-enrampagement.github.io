@@ -14,6 +14,7 @@ remote_theme: daviddarnes/alembic@main
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
+- search.md
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - screenshot.png
@@ -133,8 +134,8 @@ navigation_header:
   url: /blog/
 # title: Categories
 # url: /categories/
-- title: Search
-  url: /search/
+# title: Search
+# url: /search/
 
 navigation_footer:
 - title: Created with <3 by Sankalp 

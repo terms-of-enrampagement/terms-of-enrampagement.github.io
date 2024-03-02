@@ -3,14 +3,20 @@ title:
 feature_image: "/assets/images/unnamed.png"
 feature_text: Sankalp Srivastava
 ---
-<div> Hi! I am a Law Graduate with an interest in <b> <i> Academic Research and LegalTech </i> </b> </div>
+<div> Hi! I am a Law Graduate with an interest in <b> <i> LegalTech and Academic Research </i> </b> </div>
 
-
-<div> Currently, I am working independently on publishing academic research in the fields of Environmental Law, LegalOps, and Law and AI.</div>
-
-
-I am also developing LegalTech solutions, with specific reference to <u> utilising FOSS and publishing Legal Datasets </u>. 
+I am developing LegalTech solutions, with specific reference to <u> utilising FOSS and publishing Legal Datasets </u>. 
 <br>
+
+Some of my MVP’s in development are as follows:
+
+Lex-liberalis, a form of “Semantra” for searching through Indian legal documents [click here to view](https://lex-liberalis.onrender.com/preview)
+Schematise,  an LLM enabled XML generator for Indian laws in the Akoma Ntoso. [Click here to view](https://hasgeek.com/fifthelephant/open-source-ai-hackathon/sub/schematise-formerly-complianalyse-6tevdXfzxgEEynZ7P2hxX4)
+I am currently working on “Indian Contracts in Adjudicated Texts” - an expert annotated sentiment analysis dataset for contract clause identification. [Click here to view](https://drive.google.com/file/d/1W1K7Q7zuIFjgxvUpYfT5KTv45lXq9ykr/view?usp=sharing)
+<div> I am also  working independently on publishing academic research in the fields of Environmental Law, LegalOps, and Law and AI.</div>
+
+
+
 
 
 

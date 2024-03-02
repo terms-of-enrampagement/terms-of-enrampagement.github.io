@@ -10,10 +10,15 @@ I am developing LegalTech solutions, with specific reference to <u> utilising FO
 
 Some of my MVP’s in development are as follows:
 
-Lex-liberalis, a form of “Semantra” for searching through Indian legal documents [click here to view](https://lex-liberalis.onrender.com/preview)
-Schematise,  an LLM enabled XML generator for Indian laws in the Akoma Ntoso. [Click here to view](https://hasgeek.com/fifthelephant/open-source-ai-hackathon/sub/schematise-formerly-complianalyse-6tevdXfzxgEEynZ7P2hxX4)
-I am currently working on “Indian Contracts in Adjudicated Texts” - an expert annotated sentiment analysis dataset for contract clause identification. [Click here to view](https://drive.google.com/file/d/1W1K7Q7zuIFjgxvUpYfT5KTv45lXq9ykr/view?usp=sharing)
-<div> I am also  working independently on publishing academic research in the fields of Environmental Law, LegalOps, and Law and AI.</div>
+1. Lex-liberalis, a form of “Semantra” for searching through Indian legal documents [click here to view](https://lex-liberalis.onrender.com/preview)
+
+
+2. Schematise,  an LLM enabled XML generator for Indian laws in the Akoma Ntoso. [Click here to view](https://hasgeek.com/fifthelephant/open-source-ai-hackathon/sub/schematise-formerly-complianalyse-6tevdXfzxgEEynZ7P2hxX4)
+   
+  
+3. I am currently working on “Indian Contracts in Adjudicated Texts” - an expert annotated sentiment analysis dataset for contract clause identification. [Click here to view](https://drive.google.com/file/d/1W1K7Q7zuIFjgxvUpYfT5KTv45lXq9ykr/view?usp=sharing)
+   
+4. <div> I am also  working independently on publishing academic research in the fields of Environmental Law, LegalOps, and Law and AI.</div>
 
 
 

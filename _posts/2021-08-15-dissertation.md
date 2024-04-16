@@ -6,6 +6,9 @@ excerpt: |
 feature_text: |
   ## Ensuring Compliance with Environmental Laws
   "People of Orphalese, you can muffle the drum, and you can loosen the strings of the lyre, but who shall command the skylark not to sing?” -Kahlil Gibran, The Prophet (On Laws)
+categories:
+  - Legal Research
+  - Law and Policy
 ---
 
 The idea that ecological conservation is tied inextricably to humanity's survival is now more

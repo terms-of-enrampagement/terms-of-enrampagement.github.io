@@ -5,6 +5,8 @@ feature_text: |
 excerpt: | 
   Building a socialist imagination 
 date: 2023-05-04
+categories: 
+  - General - Events, notes
 ---
 
 <a href="https://www.goodreads.com/book/show/62900584-brecht-s-communist-manifesto-today" style="float: left; padding-right: 20px"><img border="0" alt="Brecht's Communist Manifesto Today:: Poetry, Utopia, Doctrine" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665140694l/62900584._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/62900584-brecht-s-communist-manifesto-today">Brecht's Communist Manifesto Today:: Poetry, Utopia, Doctrine</a> by <a href="https://www.goodreads.com/author/show/165277.Darko_Suvin">Darko Suvin</a><br/>

@@ -5,6 +5,10 @@ feature_text: |
 excerpt: |
   "Some platforms are increasingly adopting Digital Restrictions Management, but that does not in any way guarantee that content you prepared to be shared and accessed widely will generate monetisation. You need to set your terms for the utilisation of your work, whether for "derivative works", trademark usage, or even straight up commercial use."
 date: 2023-12-18
+categories: 
+  - Legal Tech
+  - Datasets
+
 ---
 
  <a href = "#UseCases"> To go directly to a list of use-cases I'm in the process of developing, click here </a> 

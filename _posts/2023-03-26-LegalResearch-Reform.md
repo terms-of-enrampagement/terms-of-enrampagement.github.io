@@ -5,6 +5,8 @@ feature_text: |
 excerpt: |
    In the age of globalisation, I find myself struggling to see how accepting only one part of a bargain can allow for equitable growth.
 date: 2023-03-26
+categories:
+  - General - Events, notes
 ---
 
 Over the past few months, I have been researching on a matter concerning the form of entrepreneurial setup I can devise, being a person who wishes to work only with their legal research skillset. Considering that the constitution provides freedom to engage in trade and commerce, I considered that operating as an individual legal consultant would befit my individual capabilities in exercise of this freedom. 

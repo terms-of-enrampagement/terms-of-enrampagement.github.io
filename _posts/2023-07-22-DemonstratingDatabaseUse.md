@@ -5,6 +5,9 @@ feature_text: |
 excerpt: |
   "...freely accessible sources can augment if not fully replace your research workflow if you have familiarity with their content, and this is what I want to demonstrate in this blog post."
 date: 2023-07-22
+categories: 
+  - Legal Tech
+  - Datasets
 ---
 
 Table of Contents:

@@ -5,6 +5,8 @@ feature_text: |
 excerpt: |
   "Here is where we can capitalise on our knowledge of Open Access data made available by various government institutions when reading about Indian law."
 date: 2023-06-25
+categories: 
+  - Legal Research
 ---
 <h6> Disclaimer: This article cites content available on the websites as of the day of writing. While I will try to update the links as often as possible, I do not guarantee that the URLs or content within will stay the same. By clicking on the links on this page, you agree to be bound by the policies of the website you are visiting. </h6>
 <br>

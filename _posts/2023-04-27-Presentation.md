@@ -5,6 +5,9 @@ feature_text: |
 excerpt: |
    I recently gave a presentation that is part of my project studying compliance of International Environmental Law
 date: 2023-04-27
+categories:
+  - Legal Research
+  - Law and Policy
 ---
 
 <h4> A foray into the study of compliance mechanisms within environmental laws </h4> 

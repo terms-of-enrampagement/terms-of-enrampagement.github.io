@@ -5,6 +5,8 @@ feature_text: |
 excerpt: |
   "It helps if you brace yourself for absorbing more information, through applying mindfulness, and give reading the seriousness it deserves"
 date: 2023-06-09
+categories: 
+  - General - Events, notes
 ---
 
 Reading tips.
